@@ -13,10 +13,8 @@ I love building amazing projects, exploring new technologies, and pushing the li
 🔹 UI/UX Design | Figma | Adobe XD  
 
 ## 📌 Projects  
-Check out my repositories for exciting projects, including:  
-✔️ **YouTube Premium Clone** – A feature-packed YouTube-like app with Firebase  
-✔️ **AI-Powered Photo Editor** – Advanced image editing with AI enhancements  
-✔️ **Flappy Bird Clone** – A fun game with custom themes  
+
+  # Filhal Ek App Create Kar Raha Huu, Jo Youtube Premium Hai...#
 
 ## 🌍 Connect with Me  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/itx_ashu_5k)  
